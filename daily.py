@@ -10,7 +10,7 @@ startMonth = 1
 # end year
 endYear = 2019
 # end month
-endMonth = 1
+endMonth = 7
 
 
 while startYear < (endYear+1):
